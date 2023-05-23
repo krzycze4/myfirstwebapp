@@ -2,6 +2,7 @@
 <html>
 	<body>
 		<div>
+			<div>Welcome ${name}</div>
 			<h1>Your Todos</h1>
 			<table class="table">
 				<thead>
