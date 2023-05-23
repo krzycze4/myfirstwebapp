@@ -3,6 +3,7 @@
 	<body>
 		<div>
 			<div>Welcome ${name}</div>
+			<hr>
 			<h1>Your Todos</h1>
 			<table class="table">
 				<thead>
