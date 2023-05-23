@@ -1,14 +1,10 @@
 <html>
 	<head>
-		<title>Login Page</title>
+		<title>Welcome Page</title>
 	</head>
 	<body>
-		Welcome to the login page!
-		<form method="post">
-			Name: <input type="text" name="name">
-			Password: <input type="password" name="password">
-			<input type="submit">
-		</form>
-		
+		<div>Welcome to in28min!</div>
+		<div>Name: ${name}</div>
+		<div><a href="list-todos">Manage</a> your todos list</div>
 	</body>
 </html>
