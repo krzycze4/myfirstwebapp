@@ -38,6 +38,13 @@
 			<artifactId>tomcat-embed-jasper</artifactId>
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+			<groupId>jakarta.servlet.jsp.jstl</groupId>
+			<artifactId>jakarta.servlet.jsp.jstl</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		</dependency>
+
 	</dependencies>
 	
 
